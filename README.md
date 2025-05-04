@@ -72,7 +72,6 @@ src/
 │       ├── controller/     # REST API endpoints
 │       ├── model/          # Data models
 │       ├── repository/     # Database repositories
-│       └── service/        # Business logic
 ├── App.tsx                 # Main application component
 └── main.tsx                # Application entry point
 ```
